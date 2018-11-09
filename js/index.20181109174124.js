@@ -113,5 +113,7 @@ $('.js-101').mouseenter(function() { $.loadImages('images/lll-684.jpg', function
 $('.js-101').magnificPopup({ type: 'image', closeOnContentClick: true, closeBtnInside: false, mainClass: 'mfp-fade js-101-lightbox mfp-no-margins mfp-with-zoom', image: { verticalFit: true }, zoom: { enabled: true, duration: 300 }, callbacks: { elementParse: function(item) { item.src = 'images/lll-684.jpg'; } } });
 $('.js-102').mouseenter(function() { $.loadImages('images/wei-biao-ti-1-348.jpg', function() { }) });
 $('.js-102').magnificPopup({ type: 'image', closeOnContentClick: true, closeBtnInside: false, mainClass: 'mfp-fade js-102-lightbox mfp-no-margins mfp-with-zoom', image: { verticalFit: true }, zoom: { enabled: true, duration: 300 }, callbacks: { elementParse: function(item) { item.src = 'images/wei-biao-ti-1-348.jpg'; } } });
+$('.js-103').mouseenter(function() { $.loadImages('images/3401541018238_.pic_hd-1012.jpg', function() { }) });
+$('.js-103').magnificPopup({ type: 'image', closeOnContentClick: true, closeBtnInside: false, mainClass: 'mfp-fade js-103-lightbox mfp-no-margins mfp-with-zoom', image: { verticalFit: true }, zoom: { enabled: true, duration: 300 }, callbacks: { elementParse: function(item) { item.src = 'images/3401541018238_.pic_hd-1012.jpg'; } } });
 
 });
