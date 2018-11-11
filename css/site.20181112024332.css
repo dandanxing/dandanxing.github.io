@@ -1142,6 +1142,8 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .pos-159{position:relative;margin-top:0;}
 .size-161{min-width:960px;width:960px;min-height:678px;}
 .size-162{display:inline-block;height:678px;width:100%;}
+.js-167-lightbox.mfp-bg{opacity:0;background:#0b0b0b;-webkit-transition:all 0.15s ease-out;-moz-transition:all 0.15s ease-out;transition:all 0.15s ease-out;}
+.js-167-lightbox.mfp-bg.mfp-ready{opacity:0.8;filter:alpha(opacity=80);}
 .js-161 .slider{height:678px;}
 .js-161 .slick-prev, .js-161 .slick-next { height: 20px; width: 20px; margin-top: -10px; }
 .js-161 .slick-prev:before, .js-161 .slick-next:before { font-size: 20px; color: rgb(128,128,128); opacity: 0.75; }
@@ -1166,6 +1168,8 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .pos-161{position:relative;margin-left:0;margin-top:55px;}
 .size-164{min-width:960px;width:960px;min-height:687px;}
 .size-165{display:inline-block;height:687px;width:100%;}
+.js-168-lightbox.mfp-bg{opacity:0;background:#0b0b0b;-webkit-transition:all 0.15s ease-out;-moz-transition:all 0.15s ease-out;transition:all 0.15s ease-out;}
+.js-168-lightbox.mfp-bg.mfp-ready{opacity:0.8;filter:alpha(opacity=80);}
 .js-162 .slider{height:687px;}
 .js-162 .slick-prev, .js-162 .slick-next { height: 20px; width: 20px; margin-top: -10px; }
 .js-162 .slick-prev:before, .js-162 .slick-next:before { font-size: 20px; color: rgb(128,128,128); opacity: 0.75; }
@@ -1189,6 +1193,8 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .pos-163{position:relative;margin-left:0;margin-top:53px;}
 .size-166{min-width:960px;width:960px;min-height:587px;}
 .size-167{display:inline-block;height:587px;width:100%;}
+.js-169-lightbox.mfp-bg{opacity:0;background:#0b0b0b;-webkit-transition:all 0.15s ease-out;-moz-transition:all 0.15s ease-out;transition:all 0.15s ease-out;}
+.js-169-lightbox.mfp-bg.mfp-ready{opacity:0.8;filter:alpha(opacity=80);}
 .js-163 .slider{height:587px;}
 .js-163 .slick-prev, .js-163 .slick-next { height: 20px; width: 20px; margin-top: -10px; }
 .js-163 .slick-prev:before, .js-163 .slick-next:before { font-size: 20px; color: rgb(128,128,128); opacity: 0.75; }
